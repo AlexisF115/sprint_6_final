@@ -13,7 +13,7 @@ if hist_button:
     st.plotly_chart(fig, use_container_width=True)
 
 #Grafico de dispersión
-build_histogram = st.checkbox('Construir un histograma')
+build_histogram = st.checkbox('Construir un grafico de dispersión')
 if build_histogram: # si la casilla de verificación está seleccionada
     st.write('Construir un histograma para la columna odómetro')
     fig= px.scatter(car_data, x="odometer")
