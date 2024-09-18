@@ -18,3 +18,6 @@ Requisitos
 
 **Interactividad:**
     Permite al usuario elegir que graficos desea visualizar mediante botones y casillas de verificación.
+
+**Link de acceso a la app:*
+https://sprint-6-final.onrender.com
